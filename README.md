@@ -24,9 +24,10 @@ print(response.json())
 
 # Article
 
-Please have a read of the full article that was published on Towards Data Science
+You can read the full article that was published on Towards Data Science
 
  - **Article**: [Towards Data Science: Create an API to Deploy Machine Learning Models using Flask][mlm-flask-heroku]
  - **Author**: [Elizabeth Ter Sahakyan](https://towardsdatascience.com/@liztersahakyan)
 
-[mlm-flask-heroku]: https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+# Acknowlegements
+Thank you to [Josh Peak](https://github.com/neozenith) who added the button for heroku deployment
