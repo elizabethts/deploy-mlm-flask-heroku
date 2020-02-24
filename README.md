@@ -26,7 +26,7 @@ print(response.json())
 
 You can read the full article that was published on Towards Data Science
 
- - **Article**: [Towards Data Science: Create an API to Deploy Machine Learning Models using Flask][mlm-flask-heroku]
+ - **Article**: [Towards Data Science: Create an API to Deploy Machine Learning Models using Flask](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
  - **Author**: [Elizabeth Ter Sahakyan](https://towardsdatascience.com/@liztersahakyan)
 
 # Acknowlegements
